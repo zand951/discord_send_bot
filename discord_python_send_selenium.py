@@ -48,7 +48,7 @@ def login_and_send_message(username, password, server_name, channel_name, messag
     time.sleep(1)  # Allow time for message to send
     driver.quit()
 
-# Made by me
+# new branch
 
 
 
